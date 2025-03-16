@@ -1,4 +1,3 @@
-readme.md
 ### Luciana González 
 
 Periodismo 
