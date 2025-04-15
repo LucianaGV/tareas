@@ -1,10 +1,5 @@
-readme.md
+### Luciana González 
 
-# Este es un título
+Periodismo 
 
-Este es un párrafo. 
-
-1. Elemento 
-2. Elemento 2
-
-**hola**
+*Correo*: lucianagdv@uc.cl
